@@ -1,4 +1,4 @@
-# Wireless Posture Monitor
+# Wearable Wireless Posture Monitor
 
 A wearable posture monitoring device that detects poor sitting posture using an MPU6050 accelerometer and gyroscope. The system continuously monitors the user's upper body orientation and activates a buzzer if poor posture is maintained beyond a predefined duration.
 
